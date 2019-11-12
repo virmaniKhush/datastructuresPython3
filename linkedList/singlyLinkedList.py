@@ -46,6 +46,12 @@ class SinglyLinkedList():
             ll_node = ll_node.next
 
 
+    # def bubbleSorter(self):
+    #     ll_node = self.head
+    #     while ll_node.next is not None:
+
+
+
 head1 = Node(2)
 ll1 = SinglyLinkedList(head1)
 ll1.insertAtEend(3)
